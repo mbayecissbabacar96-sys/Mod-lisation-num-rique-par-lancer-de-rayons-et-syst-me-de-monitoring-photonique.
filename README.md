@@ -37,7 +37,7 @@ La simulation réalisée sous **Python** met en évidence :
 
 * **📜 Rapport d'Étude :**
 * **[📄 Consulter le Rapport Technique Complet (PDF)](Optique_par_lancer_de_rayons.pdf)**
-* **[🐍 Voir le Code Python d'Analyse](Script_optique_par_lancer.py)**
+* **[🐍 Voir le Code Python d'Analyse](analysis.py)**
 
 
 ---
