@@ -16,8 +16,11 @@ L'étude vise à prédire le comportement de la lumière à travers plusieurs ax
 
 ## 🧠 Principes Théoriques
 Le simulateur repose sur les lois fondamentales de l'optique géométrique :
+
 1.**Loi de la lentille mince** : La déviation angulaire suit la formule $\theta' = \theta - \frac{y}{f}$.
+
 2. **Équations de propagation** :
+3. 
    - Avant lentille : $y(z) = y_0 + \theta z$.
    - Après lentille : $y(z) = y_{lens} + \theta' (z - z_{lens})$.
 
