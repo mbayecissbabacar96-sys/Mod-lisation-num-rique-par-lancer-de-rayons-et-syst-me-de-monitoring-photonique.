@@ -27,7 +27,7 @@ Le simulateur repose sur les lois fondamentales de l'optique géométrique :
 
 ## 📊 Résultats & Analyse
 La simulation réalisée sous **Python** met en évidence :
-* ]**Convergence** : Après la lentille, une modification de la direction des rayons entraîne une convergence progressive vers une zone de focalisation.
+* **Convergence** : Après la lentille, une modification de la direction des rayons entraîne une convergence progressive vers une zone de focalisation.
 * **Puissance de la lentille** : Plus la distance focale est petite ($f=5$), plus la convergence est forte et rapide.
 * **Limites** : Le modèle néglige les aberrations sphériques/chromatiques ainsi que la diffraction.
 
